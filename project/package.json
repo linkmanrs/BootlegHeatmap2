@@ -13,7 +13,7 @@
     "vue": "^2.5.17",
     "vue-cli": "^2.9.6",
     "vue2-leaflet": "^1.1.1",
-    "vue2-leaflet-heatmap": "file:../vue2-leaflet-heatmap-1.0.0.tgz"
+    "vue2-leaflet-heatmap": "file:vue2-leaflet-heatmap-1.0.0.tgz"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.5",
